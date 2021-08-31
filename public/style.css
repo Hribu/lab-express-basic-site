@@ -1,0 +1,35 @@
+h1{
+    color: teal;
+    margin: 0 15px 30px 15px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 10px 15px;
+    border-radius: 0.5em;
+    margin: 15px;
+}
+
+
+
+p {
+margin: 30px 15px;
+font-size: large;
+}
+
+.img-container{
+    margin: 30px 30px 30px 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    width: 200px;
+}
